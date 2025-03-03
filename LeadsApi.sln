@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeadsApi", "LeadsApi\LeadsApi.csproj", "{75F29841-68D7-4AF7-9A16-794D1ECB5E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeadsTest", "LeadsTest\LeadsTest.csproj", "{97244457-FA63-4386-B29F-2DF528C9748E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F29841-68D7-4AF7-9A16-794D1ECB5E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F29841-68D7-4AF7-9A16-794D1ECB5E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F29841-68D7-4AF7-9A16-794D1ECB5E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F29841-68D7-4AF7-9A16-794D1ECB5E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97244457-FA63-4386-B29F-2DF528C9748E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97244457-FA63-4386-B29F-2DF528C9748E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97244457-FA63-4386-B29F-2DF528C9748E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97244457-FA63-4386-B29F-2DF528C9748E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B576FCE-C229-45FF-A829-A9119ECCE719}
+	EndGlobalSection
+EndGlobal
